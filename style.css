@@ -1,0 +1,68 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.white-text-anchor a
+{
+    color:white;
+}
+.bg-black
+{
+    background-color: black;
+}
+.arrow
+{
+    width: 1px;
+    position: relative;
+    bottom: 600px;
+    
+}
+.left
+{
+    left: 25px;
+}
+.right
+{
+    right: 25px;
+}
+.text-purple
+{
+    color:purple
+}
+.text-black
+{
+    color: black;
+}
+.square
+{
+    border: 1px solid black;
+}
+.w-15
+{
+    width: 15%;
+}
+.background-pic
+{
+    background-image: url(assets/imgs/shape-a.png);
+    height: 1000px;
+}
+.btn-pink
+{
+    background-color: #FF78F0;
+    color: white;
+}
+.width-50px
+{
+    width: 50px;
+}
+.black-footer
+{
+    background-color: black;
+}
+.font-size-small
+{
+    font-size: 10px;
+}
